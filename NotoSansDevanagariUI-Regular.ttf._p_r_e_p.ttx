@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      NPUSHB[ ]  /* 40 values pushed */
+      53 41 4 43 71 52 199 52 2 51 9 4 43 50 25 0 43 49 9 3 43 25 9 4 43
+      55 48 1 41 48 183 48 198 48 3 183 39 183 40 2
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      PUSHB[ ]  /* 4 values pushed */
+      39 46 47 57
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      PUSHB[ ]  /* 4 values pushed */
+      39 15 17 57
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      PUSHB[ ]  /* 4 values pushed */
+      36 50 52 57
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      PUSHB[ ]  /* 4 values pushed */
+      36 41 43 57
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      PUSHB[ ]  /* 4 values pushed */
+      36 32 34 57
+      PUSHW[ ]  /* 1 value pushed */
+      -24
+      PUSHB[ ]  /* 4 values pushed */
+      35 48 50 57
+      PUSHW[ ]  /* 1 value pushed */
+      -18
+      NPUSHB[ ]  /* 101 values pushed */
+      35 31 32 57 40 41 56 35 2 6 45 22 45 2 46 37 25 31 38 37 4 43 37 9 4
+      43 34 9 63 43 33 9 6 43 32 9 6 43 199 9 1 15 16 17 12 3 4 5 12 0
+      1 2 12 11 3 123 3 234 3 3 11 0 57 15 233 15 247 0 4 27 1 29 13 21 16
+      23 13 18 4 20 13 4 27 71 27 2 27 60 21 60 18 60 15 60 3 60 0 60 80 51
+      84
+      SVTCA[1]
+      PUSHB[ ]  /* 1 value pushed */
+      18
+      MPPEM[ ]
+      SVTCA[0]
+      MPPEM[ ]
+      EQ[ ]
+      WS[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      19
+      SVTCA[1]
+      MPPEM[ ]
+      SVTCA[0]
+      MPPEM[ ]
+      GTEQ[ ]
+      WS[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      51
+      CALL[ ]
+      MPPEM[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      800
+      GT[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      50
+      CALL[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      9
+      LT[ ]
+      OR[ ]
+      IF[ ]
+      PUSHB[ ]  /* 2 values pushed */
+      1 1
+      INSTCTRL[ ]
+      EIF[ ]
+      PUSHW[ ]  /* 2 values pushed */
+      1 256
+      PUSHB[ ]  /* 1 value pushed */
+      75
+      ADD[ ]
+      SCANCTRL[ ]
+      SCANTYPE[ ]
+      CALL[ ]
+      CALL[ ]
+      SCVTCI[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      100
+      MPPEM[ ]
+      GTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      128
+      SCVTCI[ ]
+      EIF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      50
+      MPPEM[ ]
+      GTEQ[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      144
+      SCVTCI[ ]
+      EIF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      9
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      8
+      GT[ ]
+      WS[ ]
+      MPPEM[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      57
+      LTEQ[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      27
+      SWAP[ ]
+      WS[ ]
+      SVTCA[0]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      DELTAC1[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC2[ ]
+      DELTAC1[ ]
+      DELTAC2[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      CALL[ ]
+      DELTAC1[ ]
+      CALL[ ]
+    </assembly>
+  </prep>
+
+</ttFont>

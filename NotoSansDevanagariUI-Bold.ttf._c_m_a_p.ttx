@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="NULL"/><!-- &lt;control> -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0x21" name="exclam.deva"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl.deva"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign.deva"/><!-- NUMBER SIGN -->
+      <map code="0x25" name="percent.deva"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle.deva"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft.deva"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright.deva"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk.deva"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus.deva"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma.deva"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen.deva"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period.deva"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash.deva"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero.deva"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one.deva"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two.deva"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three.deva"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four.deva"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five.deva"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six.deva"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven.deva"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight.deva"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine.deva"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon.deva"/><!-- COLON -->
+      <map code="0x3b" name="semicolon.deva"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less.deva"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal.deva"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater.deva"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question.deva"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft.deva"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash.deva"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright.deva"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum.deva"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore.deva"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft.deva"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar.deva"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright.deva"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde.deva"/><!-- TILDE -->
+      <map code="0xa0" name="space"/><!-- NO-BREAK SPACE -->
+      <map code="0xaf" name="sfthyphen.deva"/><!-- MACRON -->
+      <map code="0xd7" name="multiply.deva"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide.deva"/><!-- DIVISION SIGN -->
+      <map code="0x2bc" name="uni02BC"/><!-- MODIFIER LETTER APOSTROPHE -->
+      <map code="0x901" name="candrabindudeva"/><!-- DEVANAGARI SIGN CANDRABINDU -->
+      <map code="0x902" name="anusvaradeva"/><!-- DEVANAGARI SIGN ANUSVARA -->
+      <map code="0x903" name="visargadeva"/><!-- DEVANAGARI SIGN VISARGA -->
+      <map code="0x904" name="ashortdeva"/><!-- DEVANAGARI LETTER SHORT A -->
+      <map code="0x905" name="adeva"/><!-- DEVANAGARI LETTER A -->
+      <map code="0x906" name="aadeva"/><!-- DEVANAGARI LETTER AA -->
+      <map code="0x907" name="ideva"/><!-- DEVANAGARI LETTER I -->
+      <map code="0x908" name="iideva"/><!-- DEVANAGARI LETTER II -->
+      <map code="0x909" name="udeva"/><!-- DEVANAGARI LETTER U -->
+      <map code="0x90a" name="uudeva"/><!-- DEVANAGARI LETTER UU -->
+      <map code="0x90b" name="rvocalicdeva"/><!-- DEVANAGARI LETTER VOCALIC R -->
+      <map code="0x90c" name="lvocalicdeva"/><!-- DEVANAGARI LETTER VOCALIC L -->
+      <map code="0x90d" name="ecandradeva"/><!-- DEVANAGARI LETTER CANDRA E -->
+      <map code="0x90e" name="eshortdeva"/><!-- DEVANAGARI LETTER SHORT E -->
+      <map code="0x90f" name="edeva"/><!-- DEVANAGARI LETTER E -->
+      <map code="0x910" name="aideva"/><!-- DEVANAGARI LETTER AI -->
+      <map code="0x911" name="ocandradeva"/><!-- DEVANAGARI LETTER CANDRA O -->
+      <map code="0x912" name="oshortdeva"/><!-- DEVANAGARI LETTER SHORT O -->
+      <map code="0x913" name="odeva"/><!-- DEVANAGARI LETTER O -->
+      <map code="0x914" name="audeva"/><!-- DEVANAGARI LETTER AU -->
+      <map code="0x915" name="kadeva"/><!-- DEVANAGARI LETTER KA -->
+      <map code="0x916" name="khadeva"/><!-- DEVANAGARI LETTER KHA -->
+      <map code="0x917" name="gadeva"/><!-- DEVANAGARI LETTER GA -->
+      <map code="0x918" name="ghadeva"/><!-- DEVANAGARI LETTER GHA -->
+      <map code="0x919" name="ngadeva"/><!-- DEVANAGARI LETTER NGA -->
+      <map code="0x91a" name="cadeva"/><!-- DEVANAGARI LETTER CA -->
+      <map code="0x91b" name="chadeva"/><!-- DEVANAGARI LETTER CHA -->
+      <map code="0x91c" name="jadeva"/><!-- DEVANAGARI LETTER JA -->
+      <map code="0x91d" name="jhadeva"/><!-- DEVANAGARI LETTER JHA -->
+      <map code="0x91e" name="nyadeva"/><!-- DEVANAGARI LETTER NYA -->
+      <map code="0x91f" name="ttadeva"/><!-- DEVANAGARI LETTER TTA -->
+      <map code="0x920" name="tthadeva"/><!-- DEVANAGARI LETTER TTHA -->
+      <map code="0x921" name="ddadeva"/><!-- DEVANAGARI LETTER DDA -->
+      <map code="0x922" name="ddhadeva"/><!-- DEVANAGARI LETTER DDHA -->
+      <map code="0x923" name="nnadeva"/><!-- DEVANAGARI LETTER NNA -->
+      <map code="0x924" name="tadeva"/><!-- DEVANAGARI LETTER TA -->
+      <map code="0x925" name="thadeva"/><!-- DEVANAGARI LETTER THA -->
+      <map code="0x926" name="dadeva"/><!-- DEVANAGARI LETTER DA -->
+      <map code="0x927" name="dhadeva"/><!-- DEVANAGARI LETTER DHA -->
+      <map code="0x928" name="nadeva"/><!-- DEVANAGARI LETTER NA -->
+      <map code="0x929" name="nnnadeva"/><!-- DEVANAGARI LETTER NNNA -->
+      <map code="0x92a" name="padeva"/><!-- DEVANAGARI LETTER PA -->
+      <map code="0x92b" name="phadeva"/><!-- DEVANAGARI LETTER PHA -->
+      <map code="0x92c" name="badeva"/><!-- DEVANAGARI LETTER BA -->
+      <map code="0x92d" name="bhadeva"/><!-- DEVANAGARI LETTER BHA -->
+      <map code="0x92e" name="madeva"/><!-- DEVANAGARI LETTER MA -->
+      <map code="0x92f" name="yadeva"/><!-- DEVANAGARI LETTER YA -->
+      <map code="0x930" name="radeva"/><!-- DEVANAGARI LETTER RA -->
+      <map code="0x931" name="rradeva"/><!-- DEVANAGARI LETTER RRA -->
+      <map code="0x932" name="ladeva"/><!-- DEVANAGARI LETTER LA -->
+      <map code="0x933" name="lladeva"/><!-- DEVANAGARI LETTER LLA -->
+      <map code="0x934" name="llladeva"/><!-- DEVANAGARI LETTER LLLA -->
+      <map code="0x935" name="vadeva"/><!-- DEVANAGARI LETTER VA -->
+      <map code="0x936" name="shadeva"/><!-- DEVANAGARI LETTER SHA -->
+      <map code="0x937" name="ssadeva"/><!-- DEVANAGARI LETTER SSA -->
+      <map code="0x938" name="sadeva"/><!-- DEVANAGARI LETTER SA -->
+      <map code="0x939" name="hadeva"/><!-- DEVANAGARI LETTER HA -->
+      <map code="0x93c" name="nuktadeva"/><!-- DEVANAGARI SIGN NUKTA -->
+      <map code="0x93d" name="avagrahadeva"/><!-- DEVANAGARI SIGN AVAGRAHA -->
+      <map code="0x93e" name="aavowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN AA -->
+      <map code="0x93f" name="ivowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN I -->
+      <map code="0x940" name="iivowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN II -->
+      <map code="0x941" name="uvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN U -->
+      <map code="0x942" name="uuvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN UU -->
+      <map code="0x943" name="rvocalicvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN VOCALIC R -->
+      <map code="0x944" name="rrvocalicvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN VOCALIC RR -->
+      <map code="0x945" name="ecandravowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN CANDRA E -->
+      <map code="0x946" name="eshortvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN SHORT E -->
+      <map code="0x947" name="evowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN E -->
+      <map code="0x948" name="aivowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN AI -->
+      <map code="0x949" name="ocandravowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN CANDRA O -->
+      <map code="0x94a" name="oshortvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN SHORT O -->
+      <map code="0x94b" name="ovowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN O -->
+      <map code="0x94c" name="auvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN AU -->
+      <map code="0x94d" name="viramadeva"/><!-- DEVANAGARI SIGN VIRAMA -->
+      <map code="0x950" name="omdeva"/><!-- DEVANAGARI OM -->
+      <map code="0x951" name="udattadeva"/><!-- DEVANAGARI STRESS SIGN UDATTA -->
+      <map code="0x952" name="anudattadeva"/><!-- DEVANAGARI STRESS SIGN ANUDATTA -->
+      <map code="0x953" name="uni0953"/><!-- DEVANAGARI GRAVE ACCENT -->
+      <map code="0x954" name="uni0954"/><!-- DEVANAGARI ACUTE ACCENT -->
+      <map code="0x958" name="qadeva"/><!-- DEVANAGARI LETTER QA -->
+      <map code="0x959" name="khhadeva"/><!-- DEVANAGARI LETTER KHHA -->
+      <map code="0x95a" name="ghhadeva"/><!-- DEVANAGARI LETTER GHHA -->
+      <map code="0x95b" name="zadeva"/><!-- DEVANAGARI LETTER ZA -->
+      <map code="0x95c" name="dddhadeva"/><!-- DEVANAGARI LETTER DDDHA -->
+      <map code="0x95d" name="rhadeva"/><!-- DEVANAGARI LETTER RHA -->
+      <map code="0x95e" name="fadeva"/><!-- DEVANAGARI LETTER FA -->
+      <map code="0x95f" name="yyadeva"/><!-- DEVANAGARI LETTER YYA -->
+      <map code="0x960" name="rrvocalicdeva"/><!-- DEVANAGARI LETTER VOCALIC RR -->
+      <map code="0x961" name="llvocalicdeva"/><!-- DEVANAGARI LETTER VOCALIC LL -->
+      <map code="0x962" name="lvocalicvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN VOCALIC L -->
+      <map code="0x963" name="llvocalicvowelsigndeva"/><!-- DEVANAGARI VOWEL SIGN VOCALIC LL -->
+      <map code="0x964" name="dandadeva"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="dbldandadeva"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0x966" name="zerodeva"/><!-- DEVANAGARI DIGIT ZERO -->
+      <map code="0x967" name="onedeva"/><!-- DEVANAGARI DIGIT ONE -->
+      <map code="0x968" name="twodeva"/><!-- DEVANAGARI DIGIT TWO -->
+      <map code="0x969" name="threedeva"/><!-- DEVANAGARI DIGIT THREE -->
+      <map code="0x96a" name="fourdeva"/><!-- DEVANAGARI DIGIT FOUR -->
+      <map code="0x96b" name="fivedeva"/><!-- DEVANAGARI DIGIT FIVE -->
+      <map code="0x96c" name="sixdeva"/><!-- DEVANAGARI DIGIT SIX -->
+      <map code="0x96d" name="sevendeva"/><!-- DEVANAGARI DIGIT SEVEN -->
+      <map code="0x96e" name="eightdeva"/><!-- DEVANAGARI DIGIT EIGHT -->
+      <map code="0x96f" name="ninedeva"/><!-- DEVANAGARI DIGIT NINE -->
+      <map code="0x970" name="abbreviationsigndeva"/><!-- DEVANAGARI ABBREVIATION SIGN -->
+      <map code="0x971" name="uni0971"/><!-- DEVANAGARI SIGN HIGH SPACING DOT -->
+      <map code="0x972" name="acandradeva"/><!-- DEVANAGARI LETTER CANDRA A -->
+      <map code="0x97b" name="gabardeva"/><!-- DEVANAGARI LETTER GGA -->
+      <map code="0x97c" name="jabardeva"/><!-- DEVANAGARI LETTER JJA -->
+      <map code="0x97d" name="uni097D"/><!-- DEVANAGARI LETTER GLOTTAL STOP -->
+      <map code="0x97e" name="ddabardeva"/><!-- DEVANAGARI LETTER DDDA -->
+      <map code="0x97f" name="babardeva"/><!-- DEVANAGARI LETTER BBA -->
+      <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="uni200C"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="uni200D"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash.deva"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash.deva"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft.deva"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright.deva"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft.deva"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright.deva"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis.deva"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9.deva"/><!-- ???? -->
+      <map code="0x2212" name="minus.deva"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uni200B"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

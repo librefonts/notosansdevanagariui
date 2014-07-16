@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="aadeva" class="1"/>
+      <ClassDef glyph="aanuktadeva" class="2"/>
+      <ClassDef glyph="aavowelsigndeva" class="1"/>
+      <ClassDef glyph="acandraanusvaradeva" class="2"/>
+      <ClassDef glyph="acandradeva" class="1"/>
+      <ClassDef glyph="acandranuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="acandranuktadeva" class="2"/>
+      <ClassDef glyph="adeva" class="1"/>
+      <ClassDef glyph="aianusvaradeva" class="2"/>
+      <ClassDef glyph="aideva" class="1"/>
+      <ClassDef glyph="ainuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="ainuktadeva" class="2"/>
+      <ClassDef glyph="aivowelsignanusvaradeva" class="3"/>
+      <ClassDef glyph="aivowelsigncandrabindudeva" class="3"/>
+      <ClassDef glyph="aivowelsigndeva" class="3"/>
+      <ClassDef glyph="aivowelsignrephanusvaradeva" class="3"/>
+      <ClassDef glyph="aivowelsignrephdeva" class="3"/>
+      <ClassDef glyph="anudattadeva" class="3"/>
+      <ClassDef glyph="anuktadeva" class="2"/>
+      <ClassDef glyph="anusvaradeva" class="3"/>
+      <ClassDef glyph="ashortanusvaradeva" class="2"/>
+      <ClassDef glyph="ashortdeva" class="1"/>
+      <ClassDef glyph="ashortnuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="ashortnuktadeva" class="2"/>
+      <ClassDef glyph="auanusvaradeva" class="2"/>
+      <ClassDef glyph="audeva" class="1"/>
+      <ClassDef glyph="aunuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="aunuktadeva" class="2"/>
+      <ClassDef glyph="auvowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="auvowelsigncandrabindudeva" class="2"/>
+      <ClassDef glyph="auvowelsigndeva" class="1"/>
+      <ClassDef glyph="auvowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="auvowelsignrephdeva" class="2"/>
+      <ClassDef glyph="avagrahadeva" class="1"/>
+      <ClassDef glyph="babardeva" class="1"/>
+      <ClassDef glyph="badeva" class="1"/>
+      <ClassDef glyph="banuktadeva" class="2"/>
+      <ClassDef glyph="banuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="banuktaradeva" class="2"/>
+      <ClassDef glyph="banuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="baprehalfdeva" class="2"/>
+      <ClassDef glyph="baradeva" class="2"/>
+      <ClassDef glyph="baraprehalfdeva" class="2"/>
+      <ClassDef glyph="bhadeva" class="1"/>
+      <ClassDef glyph="bhanuktadeva" class="2"/>
+      <ClassDef glyph="bhanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="bhanuktaradeva" class="2"/>
+      <ClassDef glyph="bhanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="bhaprehalfdeva" class="2"/>
+      <ClassDef glyph="bharadeva" class="2"/>
+      <ClassDef glyph="bharaprehalfdeva" class="2"/>
+      <ClassDef glyph="cadeva" class="1"/>
+      <ClassDef glyph="candrabindudeva" class="3"/>
+      <ClassDef glyph="candrabindusmalldeva" class="3"/>
+      <ClassDef glyph="canuktadeva" class="2"/>
+      <ClassDef glyph="canuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="canuktaradeva" class="2"/>
+      <ClassDef glyph="canuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="caprehalfdeva" class="2"/>
+      <ClassDef glyph="caradeva" class="2"/>
+      <ClassDef glyph="caraprehalfdeva" class="2"/>
+      <ClassDef glyph="chaaltdeva" class="1"/>
+      <ClassDef glyph="chadeva" class="1"/>
+      <ClassDef glyph="chanuktaaltdeva" class="2"/>
+      <ClassDef glyph="chanuktadeva" class="2"/>
+      <ClassDef glyph="chanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="chanuktaradeva" class="2"/>
+      <ClassDef glyph="chanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="chaprehalfdeva" class="2"/>
+      <ClassDef glyph="charadeva" class="2"/>
+      <ClassDef glyph="charaprehalfdeva" class="2"/>
+      <ClassDef glyph="chayadeva" class="2"/>
+      <ClassDef glyph="dabadeva" class="2"/>
+      <ClassDef glyph="dabhaaltdeva" class="2"/>
+      <ClassDef glyph="dabhadeva" class="2"/>
+      <ClassDef glyph="dadaaltdeva" class="2"/>
+      <ClassDef glyph="dadadeva" class="2"/>
+      <ClassDef glyph="dadeva" class="1"/>
+      <ClassDef glyph="dadhadeva" class="2"/>
+      <ClassDef glyph="dadhayadeva" class="2"/>
+      <ClassDef glyph="dagadeva" class="2"/>
+      <ClassDef glyph="daghadeva" class="2"/>
+      <ClassDef glyph="damadeva" class="2"/>
+      <ClassDef glyph="danuktadeva" class="2"/>
+      <ClassDef glyph="danuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="danuktaradeva" class="2"/>
+      <ClassDef glyph="danuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="danuktarvocalicdeva" class="2"/>
+      <ClassDef glyph="danuktaudeva" class="2"/>
+      <ClassDef glyph="danuktauudeva" class="2"/>
+      <ClassDef glyph="daprehalfdeva" class="2"/>
+      <ClassDef glyph="daradeva" class="2"/>
+      <ClassDef glyph="daraprehalfdeva" class="2"/>
+      <ClassDef glyph="darvocalicdeva" class="2"/>
+      <ClassDef glyph="daudeva" class="2"/>
+      <ClassDef glyph="dauudeva" class="2"/>
+      <ClassDef glyph="davadeva" class="2"/>
+      <ClassDef glyph="dayadeva" class="2"/>
+      <ClassDef glyph="dayaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddaaltdeva" class="1"/>
+      <ClassDef glyph="ddabardeva" class="1"/>
+      <ClassDef glyph="ddaddadeva" class="2"/>
+      <ClassDef glyph="ddaddauudeva" class="2"/>
+      <ClassDef glyph="ddaddhadeva" class="2"/>
+      <ClassDef glyph="ddadeva" class="1"/>
+      <ClassDef glyph="ddanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddanuktaradeva" class="2"/>
+      <ClassDef glyph="ddanuktaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ddanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ddaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddaradeva" class="2"/>
+      <ClassDef glyph="ddaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ddaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ddayadeva" class="2"/>
+      <ClassDef glyph="dddhaaltdeva" class="2"/>
+      <ClassDef glyph="dddhadeva" class="2"/>
+      <ClassDef glyph="ddhaaltdeva" class="1"/>
+      <ClassDef glyph="ddhaddhadeva" class="2"/>
+      <ClassDef glyph="ddhadeva" class="1"/>
+      <ClassDef glyph="ddhanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddhanuktaradeva" class="2"/>
+      <ClassDef glyph="ddhanuktaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ddhanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ddhaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddharadeva" class="2"/>
+      <ClassDef glyph="ddharaprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ddharaprehalfdeva" class="2"/>
+      <ClassDef glyph="ddhayadeva" class="2"/>
+      <ClassDef glyph="dhadeva" class="1"/>
+      <ClassDef glyph="dhanuktadeva" class="2"/>
+      <ClassDef glyph="dhanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="dhanuktaradeva" class="2"/>
+      <ClassDef glyph="dhanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="dhaprehalfdeva" class="2"/>
+      <ClassDef glyph="dharadeva" class="2"/>
+      <ClassDef glyph="dharaprehalfdeva" class="2"/>
+      <ClassDef glyph="dummymarkdeva" class="3"/>
+      <ClassDef glyph="ecandraanusvaradeva" class="2"/>
+      <ClassDef glyph="ecandradeva" class="1"/>
+      <ClassDef glyph="ecandranuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="ecandranuktadeva" class="2"/>
+      <ClassDef glyph="ecandravowelsignanusvaradeva" class="3"/>
+      <ClassDef glyph="ecandravowelsigncandrabindudeva" class="3"/>
+      <ClassDef glyph="ecandravowelsigndeva" class="3"/>
+      <ClassDef glyph="ecandravowelsignrephanusvaradeva" class="3"/>
+      <ClassDef glyph="ecandravowelsignrephdeva" class="3"/>
+      <ClassDef glyph="edeva" class="1"/>
+      <ClassDef glyph="enuktadeva" class="2"/>
+      <ClassDef glyph="eshortanusvaradeva" class="2"/>
+      <ClassDef glyph="eshortdeva" class="1"/>
+      <ClassDef glyph="eshortnuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="eshortnuktadeva" class="2"/>
+      <ClassDef glyph="eshortvowelsignanusvaradeva" class="3"/>
+      <ClassDef glyph="eshortvowelsigncandrabindudeva" class="3"/>
+      <ClassDef glyph="eshortvowelsigndeva" class="3"/>
+      <ClassDef glyph="eshortvowelsignrephanusvarade" class="3"/>
+      <ClassDef glyph="eshortvowelsignrephdeva" class="3"/>
+      <ClassDef glyph="evowelsignanusvaradeva" class="3"/>
+      <ClassDef glyph="evowelsigncandrabindudeva" class="3"/>
+      <ClassDef glyph="evowelsigndeva" class="3"/>
+      <ClassDef glyph="evowelsignrephanusvaradeva" class="3"/>
+      <ClassDef glyph="evowelsignrephdeva" class="3"/>
+      <ClassDef glyph="fadeva" class="2"/>
+      <ClassDef glyph="gabardeva" class="1"/>
+      <ClassDef glyph="gadeva" class="1"/>
+      <ClassDef glyph="ganuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ganuktaradeva" class="2"/>
+      <ClassDef glyph="ganuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="gaprehalfdeva" class="2"/>
+      <ClassDef glyph="garadeva" class="2"/>
+      <ClassDef glyph="garaprehalfdeva" class="2"/>
+      <ClassDef glyph="ghadeva" class="1"/>
+      <ClassDef glyph="ghanuktadeva" class="2"/>
+      <ClassDef glyph="ghanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ghanuktaradeva" class="2"/>
+      <ClassDef glyph="ghanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ghaprehalfdeva" class="2"/>
+      <ClassDef glyph="gharadeva" class="2"/>
+      <ClassDef glyph="gharaprehalfdeva" class="2"/>
+      <ClassDef glyph="ghhadeva" class="2"/>
+      <ClassDef glyph="hadeva" class="1"/>
+      <ClassDef glyph="haladeva" class="2"/>
+      <ClassDef glyph="hamadeva" class="2"/>
+      <ClassDef glyph="hanadeva" class="2"/>
+      <ClassDef glyph="hannadeva" class="2"/>
+      <ClassDef glyph="hanuktadeva" class="2"/>
+      <ClassDef glyph="hanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="hanuktaradeva" class="2"/>
+      <ClassDef glyph="hanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="hanuktarrvocalicdeva" class="2"/>
+      <ClassDef glyph="hanuktarvocalicdeva" class="2"/>
+      <ClassDef glyph="hanuktaudeva" class="2"/>
+      <ClassDef glyph="hanuktauudeva" class="2"/>
+      <ClassDef glyph="haprehalfdeva" class="2"/>
+      <ClassDef glyph="haradeva" class="2"/>
+      <ClassDef glyph="haraprehalfdeva" class="2"/>
+      <ClassDef glyph="harauUIdeva" class="2"/>
+      <ClassDef glyph="haraudeva" class="2"/>
+      <ClassDef glyph="harauuUIdeva" class="2"/>
+      <ClassDef glyph="harauudeva" class="2"/>
+      <ClassDef glyph="harrvocalicdeva" class="2"/>
+      <ClassDef glyph="harvocalicdeva" class="2"/>
+      <ClassDef glyph="hauUIdeva" class="2"/>
+      <ClassDef glyph="haudeva" class="2"/>
+      <ClassDef glyph="hauuUIdeva" class="2"/>
+      <ClassDef glyph="hauudeva" class="2"/>
+      <ClassDef glyph="havadeva" class="2"/>
+      <ClassDef glyph="hayadeva" class="2"/>
+      <ClassDef glyph="ideva" class="1"/>
+      <ClassDef glyph="iianusvaradeva" class="2"/>
+      <ClassDef glyph="iideva" class="1"/>
+      <ClassDef glyph="iinuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="iinuktadeva" class="2"/>
+      <ClassDef glyph="iivowelcandrabindu1deva" class="2"/>
+      <ClassDef glyph="iivowelcandrabindu2deva" class="2"/>
+      <ClassDef glyph="iivowelcandrabindu3deva" class="2"/>
+      <ClassDef glyph="iivowelcandrabindudeva" class="2"/>
+      <ClassDef glyph="iivowelsign1deva" class="1"/>
+      <ClassDef glyph="iivowelsign2deva" class="1"/>
+      <ClassDef glyph="iivowelsign3deva" class="1"/>
+      <ClassDef glyph="iivowelsignanusvara1deva" class="2"/>
+      <ClassDef glyph="iivowelsignanusvara2deva" class="2"/>
+      <ClassDef glyph="iivowelsignanusvara3deva" class="2"/>
+      <ClassDef glyph="iivowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="iivowelsigndeva" class="1"/>
+      <ClassDef glyph="iivowelsignreph1deva" class="2"/>
+      <ClassDef glyph="iivowelsignreph2deva" class="2"/>
+      <ClassDef glyph="iivowelsignreph3deva" class="2"/>
+      <ClassDef glyph="iivowelsignrephanusvara1deva" class="2"/>
+      <ClassDef glyph="iivowelsignrephanusvara2deva" class="2"/>
+      <ClassDef glyph="iivowelsignrephanusvara3deva" class="2"/>
+      <ClassDef glyph="iivowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="iivowelsignrephdeva" class="2"/>
+      <ClassDef glyph="inuktadeva" class="2"/>
+      <ClassDef glyph="ivowelsign00deva" class="1"/>
+      <ClassDef glyph="ivowelsign01deva" class="1"/>
+      <ClassDef glyph="ivowelsign02deva" class="1"/>
+      <ClassDef glyph="ivowelsign03deva" class="1"/>
+      <ClassDef glyph="ivowelsign04deva" class="1"/>
+      <ClassDef glyph="ivowelsign05deva" class="1"/>
+      <ClassDef glyph="ivowelsign06deva" class="1"/>
+      <ClassDef glyph="ivowelsign07deva" class="1"/>
+      <ClassDef glyph="ivowelsign08deva" class="1"/>
+      <ClassDef glyph="ivowelsign09deva" class="1"/>
+      <ClassDef glyph="ivowelsign10deva" class="1"/>
+      <ClassDef glyph="ivowelsign11deva" class="1"/>
+      <ClassDef glyph="ivowelsignanusvara01deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara02deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara03deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara04deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara05deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara06deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara07deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara08deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara09deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara10deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvara11deva" class="2"/>
+      <ClassDef glyph="ivowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="ivowelsigndeva" class="1"/>
+      <ClassDef glyph="ivowelsignreph01deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph02deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph03deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph04deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph05deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph06deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph07deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph08deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph09deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph10deva" class="2"/>
+      <ClassDef glyph="ivowelsignreph11deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara01deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara02deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara03deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara04deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara05deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara06deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara07deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara08deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara09deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara10deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvara11deva" class="2"/>
+      <ClassDef glyph="ivowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="ivowelsignrephdeva" class="2"/>
+      <ClassDef glyph="jabardeva" class="1"/>
+      <ClassDef glyph="jadeva" class="1"/>
+      <ClassDef glyph="januktaprehalfdeva" class="2"/>
+      <ClassDef glyph="januktaradeva" class="2"/>
+      <ClassDef glyph="januktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="janyadeva" class="2"/>
+      <ClassDef glyph="janyaprehalfdeva" class="2"/>
+      <ClassDef glyph="janyaradeva" class="2"/>
+      <ClassDef glyph="janyaraprehalfdeva" class="2"/>
+      <ClassDef glyph="japrehalfdeva" class="2"/>
+      <ClassDef glyph="jaradeva" class="2"/>
+      <ClassDef glyph="jaraprehalfdeva" class="2"/>
+      <ClassDef glyph="jhadeva" class="1"/>
+      <ClassDef glyph="jhanuktadeva" class="2"/>
+      <ClassDef glyph="jhanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="jhanuktaradeva" class="2"/>
+      <ClassDef glyph="jhanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="jhaprehalfdeva" class="2"/>
+      <ClassDef glyph="jharadeva" class="2"/>
+      <ClassDef glyph="jharaprehalfdeva" class="2"/>
+      <ClassDef glyph="kadeva" class="1"/>
+      <ClassDef glyph="kanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="kanuktaradeva" class="2"/>
+      <ClassDef glyph="kanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="kaprehalfdeva" class="2"/>
+      <ClassDef glyph="karadeva" class="2"/>
+      <ClassDef glyph="karaprehalfdeva" class="2"/>
+      <ClassDef glyph="kassadeva" class="2"/>
+      <ClassDef glyph="kassaprehalfdeva" class="2"/>
+      <ClassDef glyph="kassaradeva" class="2"/>
+      <ClassDef glyph="kassaraprehalfdeva" class="2"/>
+      <ClassDef glyph="katadeva" class="2"/>
+      <ClassDef glyph="khadeva" class="1"/>
+      <ClassDef glyph="khanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="khanuktaradeva" class="2"/>
+      <ClassDef glyph="khanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="khaprehalfdeva" class="2"/>
+      <ClassDef glyph="kharadeva" class="2"/>
+      <ClassDef glyph="kharaprehalfdeva" class="2"/>
+      <ClassDef glyph="khhadeva" class="2"/>
+      <ClassDef glyph="laaltdevaMAR" class="1"/>
+      <ClassDef glyph="ladeva" class="1"/>
+      <ClassDef glyph="ladevaMAR" class="1"/>
+      <ClassDef glyph="lanuktaaltdevaMAR" class="2"/>
+      <ClassDef glyph="lanuktadeva" class="2"/>
+      <ClassDef glyph="lanuktadevaMAR" class="2"/>
+      <ClassDef glyph="lanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="lanuktaradeva" class="2"/>
+      <ClassDef glyph="lanuktaradevaMAR" class="2"/>
+      <ClassDef glyph="lanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="laprehalfdeva" class="2"/>
+      <ClassDef glyph="laradeva" class="2"/>
+      <ClassDef glyph="laradevaMAR" class="2"/>
+      <ClassDef glyph="laraprehalfdeva" class="2"/>
+      <ClassDef glyph="llaaltdeva" class="1"/>
+      <ClassDef glyph="lladeva" class="1"/>
+      <ClassDef glyph="llanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="llanuktaradeva" class="2"/>
+      <ClassDef glyph="llanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="llaprehalfdeva" class="2"/>
+      <ClassDef glyph="llaradeva" class="2"/>
+      <ClassDef glyph="llaraprehalfdeva" class="2"/>
+      <ClassDef glyph="lllaaltdeva" class="2"/>
+      <ClassDef glyph="llladeva" class="2"/>
+      <ClassDef glyph="llvocalicdeva" class="1"/>
+      <ClassDef glyph="llvocalicnuktadeva" class="2"/>
+      <ClassDef glyph="llvocalicvowelsigndeva" class="3"/>
+      <ClassDef glyph="llvocalicvowelsignleftdeva" class="3"/>
+      <ClassDef glyph="llvocalicvowelsignlowdeva" class="3"/>
+      <ClassDef glyph="llvocalicvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="llvocalicvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="lvocalicdeva" class="1"/>
+      <ClassDef glyph="lvocalicnuktadeva" class="2"/>
+      <ClassDef glyph="lvocalicvowelsigndeva" class="3"/>
+      <ClassDef glyph="lvocalicvowelsignleftdeva" class="3"/>
+      <ClassDef glyph="lvocalicvowelsignlowdeva" class="3"/>
+      <ClassDef glyph="lvocalicvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="lvocalicvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="madeva" class="1"/>
+      <ClassDef glyph="manuktadeva" class="2"/>
+      <ClassDef glyph="manuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="manuktaradeva" class="2"/>
+      <ClassDef glyph="manuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="maprehalfdeva" class="2"/>
+      <ClassDef glyph="maradeva" class="2"/>
+      <ClassDef glyph="maraprehalfdeva" class="2"/>
+      <ClassDef glyph="nadeva" class="1"/>
+      <ClassDef glyph="nanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="nanuktaradeva" class="2"/>
+      <ClassDef glyph="nanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="naprehalfdeva" class="2"/>
+      <ClassDef glyph="naradeva" class="2"/>
+      <ClassDef glyph="naraprehalfdeva" class="2"/>
+      <ClassDef glyph="ngaaltdeva" class="1"/>
+      <ClassDef glyph="ngadeva" class="1"/>
+      <ClassDef glyph="nganuktaaltdeva" class="2"/>
+      <ClassDef glyph="nganuktadeva" class="2"/>
+      <ClassDef glyph="nganuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="nganuktaradeva" class="2"/>
+      <ClassDef glyph="nganuktaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="nganuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ngaprehalfdeva" class="2"/>
+      <ClassDef glyph="ngaradeva" class="2"/>
+      <ClassDef glyph="ngaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ngaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ngayadeva" class="2"/>
+      <ClassDef glyph="nnadeva" class="1"/>
+      <ClassDef glyph="nnanuktadeva" class="2"/>
+      <ClassDef glyph="nnanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="nnanuktaradeva" class="2"/>
+      <ClassDef glyph="nnanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="nnaprehalfdeva" class="2"/>
+      <ClassDef glyph="nnaradeva" class="2"/>
+      <ClassDef glyph="nnaraprehalfdeva" class="2"/>
+      <ClassDef glyph="nnnadeva" class="2"/>
+      <ClassDef glyph="nuktadeva" class="3"/>
+      <ClassDef glyph="nuktasmalldeva" class="4"/>
+      <ClassDef glyph="nyadeva" class="1"/>
+      <ClassDef glyph="nyanuktadeva" class="2"/>
+      <ClassDef glyph="nyanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="nyanuktaradeva" class="2"/>
+      <ClassDef glyph="nyanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="nyaprehalfdeva" class="2"/>
+      <ClassDef glyph="nyaradeva" class="2"/>
+      <ClassDef glyph="nyaraprehalfdeva" class="2"/>
+      <ClassDef glyph="oanusvaradeva" class="2"/>
+      <ClassDef glyph="ocandraanusvaradeva" class="2"/>
+      <ClassDef glyph="ocandradeva" class="1"/>
+      <ClassDef glyph="ocandranuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="ocandranuktadeva" class="2"/>
+      <ClassDef glyph="ocandravowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="ocandravowelsigncandrabindudeva" class="2"/>
+      <ClassDef glyph="ocandravowelsigndeva" class="1"/>
+      <ClassDef glyph="ocandravowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="ocandravowelsignrephdeva" class="2"/>
+      <ClassDef glyph="odeva" class="1"/>
+      <ClassDef glyph="onuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="onuktadeva" class="2"/>
+      <ClassDef glyph="oshortanusvaradeva" class="2"/>
+      <ClassDef glyph="oshortdeva" class="1"/>
+      <ClassDef glyph="oshortnuktaanusvaradeva" class="2"/>
+      <ClassDef glyph="oshortnuktadeva" class="2"/>
+      <ClassDef glyph="oshortvowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="oshortvowelsigncandrabindudeva" class="2"/>
+      <ClassDef glyph="oshortvowelsigndeva" class="1"/>
+      <ClassDef glyph="oshortvowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="oshortvowelsignrephdeva" class="2"/>
+      <ClassDef glyph="ovowelsignanusvaradeva" class="2"/>
+      <ClassDef glyph="ovowelsigncandrabindudeva" class="2"/>
+      <ClassDef glyph="ovowelsigndeva" class="1"/>
+      <ClassDef glyph="ovowelsignrephanusvaradeva" class="2"/>
+      <ClassDef glyph="ovowelsignrephdeva" class="2"/>
+      <ClassDef glyph="padeva" class="1"/>
+      <ClassDef glyph="panadeva" class="2"/>
+      <ClassDef glyph="panuktadeva" class="2"/>
+      <ClassDef glyph="panuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="panuktaradeva" class="2"/>
+      <ClassDef glyph="panuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="paprehalfdeva" class="2"/>
+      <ClassDef glyph="paradeva" class="2"/>
+      <ClassDef glyph="paraprehalfdeva" class="2"/>
+      <ClassDef glyph="phadeva" class="1"/>
+      <ClassDef glyph="phanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="phanuktaradeva" class="2"/>
+      <ClassDef glyph="phanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="phaprehalfdeva" class="2"/>
+      <ClassDef glyph="pharadeva" class="2"/>
+      <ClassDef glyph="pharaprehalfdeva" class="2"/>
+      <ClassDef glyph="qadeva" class="2"/>
+      <ClassDef glyph="radeva" class="1"/>
+      <ClassDef glyph="ranuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ranuktaradeva" class="2"/>
+      <ClassDef glyph="ranuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ranuktaudeva" class="2"/>
+      <ClassDef glyph="ranuktauudeva" class="2"/>
+      <ClassDef glyph="raprehalfdeva" class="2"/>
+      <ClassDef glyph="raradeva" class="2"/>
+      <ClassDef glyph="raraprehalfdeva" class="2"/>
+      <ClassDef glyph="raudeva" class="2"/>
+      <ClassDef glyph="rauudeva" class="2"/>
+      <ClassDef glyph="rephanusvaradeva" class="3"/>
+      <ClassDef glyph="rephdeva" class="3"/>
+      <ClassDef glyph="rhaaltdeva" class="2"/>
+      <ClassDef glyph="rhadeva" class="2"/>
+      <ClassDef glyph="rradeva" class="2"/>
+      <ClassDef glyph="rrvocalicdeva" class="1"/>
+      <ClassDef glyph="rrvocaliclowdeva" class="3"/>
+      <ClassDef glyph="rrvocalicnuktadeva" class="2"/>
+      <ClassDef glyph="rrvocalicvowelsigndeva" class="3"/>
+      <ClassDef glyph="rrvocalicvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="rrvocalicvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="rvocalicdeva" class="1"/>
+      <ClassDef glyph="rvocalicnuktadeva" class="2"/>
+      <ClassDef glyph="rvocalicvowelsigndeva" class="3"/>
+      <ClassDef glyph="rvocalicvowelsignlowdeva" class="3"/>
+      <ClassDef glyph="rvocalicvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="rvocalicvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="sadeva" class="1"/>
+      <ClassDef glyph="sanuktadeva" class="2"/>
+      <ClassDef glyph="sanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="sanuktaradeva" class="2"/>
+      <ClassDef glyph="sanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="saprehalfdeva" class="2"/>
+      <ClassDef glyph="saradeva" class="2"/>
+      <ClassDef glyph="saraprehalfdeva" class="2"/>
+      <ClassDef glyph="shacadeva" class="2"/>
+      <ClassDef glyph="shacaprehalfdeva" class="2"/>
+      <ClassDef glyph="shadeva" class="1"/>
+      <ClassDef glyph="shadevaMAR" class="1"/>
+      <ClassDef glyph="shaladeva" class="2"/>
+      <ClassDef glyph="shaladevaMAR" class="2"/>
+      <ClassDef glyph="shanadeva" class="2"/>
+      <ClassDef glyph="shanuktadeva" class="2"/>
+      <ClassDef glyph="shanuktadevaMAR" class="2"/>
+      <ClassDef glyph="shanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="shanuktaprehalfdevaMAR" class="2"/>
+      <ClassDef glyph="shanuktaradeva" class="2"/>
+      <ClassDef glyph="shanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="shaprehalfaltdeva" class="2"/>
+      <ClassDef glyph="shaprehalfdeva" class="2"/>
+      <ClassDef glyph="shaprehalfdevaMAR" class="2"/>
+      <ClassDef glyph="sharadeva" class="2"/>
+      <ClassDef glyph="sharaprehalfdeva" class="2"/>
+      <ClassDef glyph="shavadeva" class="2"/>
+      <ClassDef glyph="shavaprehalfdeva" class="2"/>
+      <ClassDef glyph="ssadeva" class="1"/>
+      <ClassDef glyph="ssanuktadeva" class="2"/>
+      <ClassDef glyph="ssanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ssanuktaradeva" class="2"/>
+      <ClassDef glyph="ssanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ssaprehalfdeva" class="2"/>
+      <ClassDef glyph="ssaradeva" class="2"/>
+      <ClassDef glyph="ssaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ssattadeva" class="2"/>
+      <ClassDef glyph="ssattaradeva" class="2"/>
+      <ClassDef glyph="ssatthadeva" class="2"/>
+      <ClassDef glyph="ssattharadeva" class="2"/>
+      <ClassDef glyph="tadeva" class="1"/>
+      <ClassDef glyph="tanuktadeva" class="2"/>
+      <ClassDef glyph="tanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="tanuktaradeva" class="2"/>
+      <ClassDef glyph="tanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="taprehalfdeva" class="2"/>
+      <ClassDef glyph="taradeva" class="2"/>
+      <ClassDef glyph="taraprehalfdeva" class="2"/>
+      <ClassDef glyph="tatadeva" class="2"/>
+      <ClassDef glyph="tataprehalfdeva" class="2"/>
+      <ClassDef glyph="thadeva" class="1"/>
+      <ClassDef glyph="thanuktadeva" class="2"/>
+      <ClassDef glyph="thanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="thanuktaradeva" class="2"/>
+      <ClassDef glyph="thanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="thaprehalfdeva" class="2"/>
+      <ClassDef glyph="tharadeva" class="2"/>
+      <ClassDef glyph="tharaprehalfdeva" class="2"/>
+      <ClassDef glyph="ttaaltdeva" class="1"/>
+      <ClassDef glyph="ttadeva" class="1"/>
+      <ClassDef glyph="ttanuktaaltdeva" class="2"/>
+      <ClassDef glyph="ttanuktadeva" class="2"/>
+      <ClassDef glyph="ttanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="ttanuktaradeva" class="2"/>
+      <ClassDef glyph="ttanuktaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ttanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ttaprehalfdeva" class="2"/>
+      <ClassDef glyph="ttaradeva" class="2"/>
+      <ClassDef glyph="ttaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ttaraprehalfdeva" class="2"/>
+      <ClassDef glyph="ttattadeva" class="2"/>
+      <ClassDef glyph="ttattauudeva" class="2"/>
+      <ClassDef glyph="ttatthadeva" class="2"/>
+      <ClassDef glyph="ttatthauudeva" class="2"/>
+      <ClassDef glyph="ttayadeva" class="2"/>
+      <ClassDef glyph="tthaaltdeva" class="1"/>
+      <ClassDef glyph="tthadeva" class="1"/>
+      <ClassDef glyph="tthanuktaaltdeva" class="2"/>
+      <ClassDef glyph="tthanuktadeva" class="2"/>
+      <ClassDef glyph="tthanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="tthanuktaradeva" class="2"/>
+      <ClassDef glyph="tthanuktaraprehalfUIdeva" class="2"/>
+      <ClassDef glyph="tthanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="tthaprehalfdeva" class="2"/>
+      <ClassDef glyph="ttharadeva" class="2"/>
+      <ClassDef glyph="ttharaprehalfUIdeva" class="2"/>
+      <ClassDef glyph="ttharaprehalfdeva" class="2"/>
+      <ClassDef glyph="tthatthadeva" class="2"/>
+      <ClassDef glyph="tthayadeva" class="2"/>
+      <ClassDef glyph="udattadeva" class="3"/>
+      <ClassDef glyph="udeva" class="1"/>
+      <ClassDef glyph="uni0953" class="3"/>
+      <ClassDef glyph="uni0954" class="3"/>
+      <ClassDef glyph="uni097D" class="1"/>
+      <ClassDef glyph="uni200C" class="3"/>
+      <ClassDef glyph="uni200D" class="3"/>
+      <ClassDef glyph="uni25CC" class="1"/>
+      <ClassDef glyph="unuktadeva" class="2"/>
+      <ClassDef glyph="uudeva" class="1"/>
+      <ClassDef glyph="uunuktadeva" class="2"/>
+      <ClassDef glyph="uuvowelsigndeva" class="3"/>
+      <ClassDef glyph="uuvowelsignlowdeva" class="3"/>
+      <ClassDef glyph="uuvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="uuvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="uvowelsigndeva" class="3"/>
+      <ClassDef glyph="uvowelsignlowdeva" class="3"/>
+      <ClassDef glyph="uvowelsignnarrowdeva" class="3"/>
+      <ClassDef glyph="uvowelsignnuktadeva" class="3"/>
+      <ClassDef glyph="uvowelsignnuktaleftdeva" class="3"/>
+      <ClassDef glyph="vadeva" class="1"/>
+      <ClassDef glyph="vanuktadeva" class="2"/>
+      <ClassDef glyph="vanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="vanuktaradeva" class="2"/>
+      <ClassDef glyph="vanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="vaprehalfdeva" class="2"/>
+      <ClassDef glyph="varadeva" class="2"/>
+      <ClassDef glyph="varaprehalfdeva" class="2"/>
+      <ClassDef glyph="vattudeva" class="3"/>
+      <ClassDef glyph="vattullvocalicdeva" class="3"/>
+      <ClassDef glyph="vattulvocalicdeva" class="3"/>
+      <ClassDef glyph="vatturrvocalicdeva" class="3"/>
+      <ClassDef glyph="vatturvocalicdeva" class="3"/>
+      <ClassDef glyph="vatturvocaliclowdeva" class="3"/>
+      <ClassDef glyph="vatturvocaliclownuktadeva" class="3"/>
+      <ClassDef glyph="vattuudeva" class="3"/>
+      <ClassDef glyph="vattuulowdeva" class="3"/>
+      <ClassDef glyph="vattuulownuktadeva" class="3"/>
+      <ClassDef glyph="vattuuudeva" class="3"/>
+      <ClassDef glyph="vattuuulowdeva" class="3"/>
+      <ClassDef glyph="vattuuulownuktadeva" class="3"/>
+      <ClassDef glyph="vattuviramadeva" class="3"/>
+      <ClassDef glyph="vattuviramalowdeva" class="3"/>
+      <ClassDef glyph="vattuviramalownuktadeva" class="3"/>
+      <ClassDef glyph="vayadeva" class="2"/>
+      <ClassDef glyph="viramadeva" class="3"/>
+      <ClassDef glyph="viramalowdeva" class="3"/>
+      <ClassDef glyph="viramanuktadeva" class="3"/>
+      <ClassDef glyph="visargadeva" class="1"/>
+      <ClassDef glyph="yadeva" class="1"/>
+      <ClassDef glyph="yanuktaprehalfdeva" class="2"/>
+      <ClassDef glyph="yanuktaradeva" class="2"/>
+      <ClassDef glyph="yanuktaraprehalfdeva" class="2"/>
+      <ClassDef glyph="yaprehalfdeva" class="2"/>
+      <ClassDef glyph="yaradeva" class="2"/>
+      <ClassDef glyph="yaraprehalfdeva" class="2"/>
+      <ClassDef glyph="yyadeva" class="2"/>
+      <ClassDef glyph="zadeva" class="2"/>
+    </GlyphClassDef>
+    <AttachList>
+      <Coverage Format="1">
+        <Glyph value="candrabindudeva"/>
+        <Glyph value="anusvaradeva"/>
+        <Glyph value="ideva"/>
+        <Glyph value="udeva"/>
+        <Glyph value="uudeva"/>
+        <Glyph value="rvocalicdeva"/>
+        <Glyph value="lvocalicdeva"/>
+        <Glyph value="edeva"/>
+        <Glyph value="kadeva"/>
+        <Glyph value="ngadeva"/>
+        <Glyph value="chadeva"/>
+        <Glyph value="ttadeva"/>
+        <Glyph value="tthadeva"/>
+        <Glyph value="ddadeva"/>
+        <Glyph value="ddhadeva"/>
+        <Glyph value="dadeva"/>
+        <Glyph value="phadeva"/>
+        <Glyph value="radeva"/>
+        <Glyph value="rradeva"/>
+        <Glyph value="lladeva"/>
+        <Glyph value="llladeva"/>
+        <Glyph value="uvowelsigndeva"/>
+        <Glyph value="uuvowelsigndeva"/>
+        <Glyph value="rvocalicvowelsigndeva"/>
+        <Glyph value="rrvocalicvowelsigndeva"/>
+        <Glyph value="ecandravowelsigndeva"/>
+        <Glyph value="eshortvowelsigndeva"/>
+        <Glyph value="evowelsigndeva"/>
+        <Glyph value="aivowelsigndeva"/>
+        <Glyph value="viramadeva"/>
+        <Glyph value="udattadeva"/>
+        <Glyph value="uni0953"/>
+        <Glyph value="uni0954"/>
+        <Glyph value="qadeva"/>
+        <Glyph value="dddhadeva"/>
+        <Glyph value="rhadeva"/>
+        <Glyph value="fadeva"/>
+        <Glyph value="rrvocalicdeva"/>
+        <Glyph value="llvocalicdeva"/>
+        <Glyph value="lvocalicvowelsigndeva"/>
+        <Glyph value="llvocalicvowelsigndeva"/>
+        <Glyph value="ddabardeva"/>
+        <Glyph value="inuktadeva"/>
+        <Glyph value="unuktadeva"/>
+        <Glyph value="uunuktadeva"/>
+        <Glyph value="rvocalicnuktadeva"/>
+        <Glyph value="lvocalicnuktadeva"/>
+        <Glyph value="enuktadeva"/>
+        <Glyph value="rrvocalicnuktadeva"/>
+        <Glyph value="llvocalicnuktadeva"/>
+        <Glyph value="nganuktadeva"/>
+        <Glyph value="chanuktadeva"/>
+        <Glyph value="ttanuktadeva"/>
+        <Glyph value="tthanuktadeva"/>
+        <Glyph value="danuktadeva"/>
+        <Glyph value="rephdeva"/>
+        <Glyph value="karadeva"/>
+        <Glyph value="ngaradeva"/>
+        <Glyph value="charadeva"/>
+        <Glyph value="ttaradeva"/>
+        <Glyph value="ttharadeva"/>
+        <Glyph value="ddaradeva"/>
+        <Glyph value="ddharadeva"/>
+        <Glyph value="daradeva"/>
+        <Glyph value="pharadeva"/>
+        <Glyph value="llaradeva"/>
+        <Glyph value="kanuktaradeva"/>
+        <Glyph value="nganuktaradeva"/>
+        <Glyph value="chanuktaradeva"/>
+        <Glyph value="ttanuktaradeva"/>
+        <Glyph value="tthanuktaradeva"/>
+        <Glyph value="ddanuktaradeva"/>
+        <Glyph value="ddhanuktaradeva"/>
+        <Glyph value="danuktaradeva"/>
+        <Glyph value="phanuktaradeva"/>
+        <Glyph value="llanuktaradeva"/>
+        <Glyph value="raudeva"/>
+        <Glyph value="rauudeva"/>
+        <Glyph value="daudeva"/>
+        <Glyph value="dauudeva"/>
+        <Glyph value="darvocalicdeva"/>
+        <Glyph value="ranuktaudeva"/>
+        <Glyph value="ranuktauudeva"/>
+        <Glyph value="danuktaudeva"/>
+        <Glyph value="danuktauudeva"/>
+        <Glyph value="danuktarvocalicdeva"/>
+        <Glyph value="ecandravowelsignanusvaradeva"/>
+        <Glyph value="ecandravowelsignrephdeva"/>
+        <Glyph value="ecandravowelsignrephanusvaradeva"/>
+        <Glyph value="eshortvowelsignanusvaradeva"/>
+        <Glyph value="eshortvowelsignrephdeva"/>
+        <Glyph value="eshortvowelsignrephanusvarade"/>
+        <Glyph value="evowelsignanusvaradeva"/>
+        <Glyph value="evowelsignrephdeva"/>
+        <Glyph value="evowelsignrephanusvaradeva"/>
+        <Glyph value="aivowelsignanusvaradeva"/>
+        <Glyph value="aivowelsignrephdeva"/>
+        <Glyph value="aivowelsignrephanusvaradeva"/>
+        <Glyph value="rephanusvaradeva"/>
+        <Glyph value="katadeva"/>
+        <Glyph value="ttattadeva"/>
+        <Glyph value="ttattauudeva"/>
+        <Glyph value="ttatthadeva"/>
+        <Glyph value="ttatthauudeva"/>
+        <Glyph value="tthatthadeva"/>
+        <Glyph value="ddaddhadeva"/>
+        <Glyph value="ddaddadeva"/>
+        <Glyph value="ddaddauudeva"/>
+        <Glyph value="ddhaddhadeva"/>
+        <Glyph value="daghadeva"/>
+        <Glyph value="dagadeva"/>
+        <Glyph value="dabadeva"/>
+        <Glyph value="dabhadeva"/>
+        <Glyph value="davadeva"/>
+        <Glyph value="dadhadeva"/>
+        <Glyph value="dadadeva"/>
+        <Glyph value="ssattadeva"/>
+        <Glyph value="ssatthadeva"/>
+        <Glyph value="ssattharadeva"/>
+        <Glyph value="hannadeva"/>
+        <Glyph value="hanadeva"/>
+        <Glyph value="haladeva"/>
+        <Glyph value="havadeva"/>
+        <Glyph value="ladevaMAR"/>
+        <Glyph value="lanuktadevaMAR"/>
+        <Glyph value="laradevaMAR"/>
+        <Glyph value="lanuktaradevaMAR"/>
+        <Glyph value="shaladevaMAR"/>
+        <Glyph value="uvowelsignnuktadeva"/>
+        <Glyph value="uvowelsignnuktaleftdeva"/>
+        <Glyph value="uvowelsignnarrowdeva"/>
+        <Glyph value="uuvowelsignnuktadeva"/>
+        <Glyph value="uuvowelsignnuktaleftdeva"/>
+        <Glyph value="rvocalicvowelsignnuktadeva"/>
+        <Glyph value="rvocalicvowelsignnuktaleftdeva"/>
+        <Glyph value="rrvocalicvowelsignnuktadeva"/>
+        <Glyph value="rrvocalicvowelsignnuktaleftdeva"/>
+        <Glyph value="lvocalicvowelsignleftdeva"/>
+        <Glyph value="lvocalicvowelsignnuktadeva"/>
+        <Glyph value="lvocalicvowelsignnuktaleftdeva"/>
+        <Glyph value="llvocalicvowelsignnuktadeva"/>
+        <Glyph value="llvocalicvowelsignleftdeva"/>
+        <Glyph value="llvocalicvowelsignnuktaleftdeva"/>
+        <Glyph value="viramanuktadeva"/>
+        <Glyph value="ngaaltdeva"/>
+        <Glyph value="chaaltdeva"/>
+        <Glyph value="ttaaltdeva"/>
+        <Glyph value="tthaaltdeva"/>
+        <Glyph value="ddaaltdeva"/>
+        <Glyph value="ddhaaltdeva"/>
+        <Glyph value="llaaltdeva"/>
+        <Glyph value="laaltdevaMAR"/>
+        <Glyph value="vattuudeva"/>
+        <Glyph value="vattuulowdeva"/>
+        <Glyph value="vattuuudeva"/>
+        <Glyph value="vattuuulowdeva"/>
+        <Glyph value="vatturvocalicdeva"/>
+        <Glyph value="vatturvocaliclowdeva"/>
+        <Glyph value="vatturrvocalicdeva"/>
+        <Glyph value="vattulvocalicdeva"/>
+        <Glyph value="vattullvocalicdeva"/>
+        <Glyph value="vattuviramadeva"/>
+        <Glyph value="vattuviramalowdeva"/>
+        <Glyph value="uvowelsignlowdeva"/>
+        <Glyph value="uuvowelsignlowdeva"/>
+        <Glyph value="rvocalicvowelsignlowdeva"/>
+        <Glyph value="rrvocaliclowdeva"/>
+        <Glyph value="lvocalicvowelsignlowdeva"/>
+        <Glyph value="llvocalicvowelsignlowdeva"/>
+        <Glyph value="viramalowdeva"/>
+        <Glyph value="dadaaltdeva"/>
+        <Glyph value="dabhaaltdeva"/>
+        <Glyph value="candrabindusmalldeva"/>
+        <Glyph value="ecandravowelsigncandrabindudeva"/>
+        <Glyph value="eshortvowelsigncandrabindudeva"/>
+        <Glyph value="evowelsigncandrabindudeva"/>
+        <Glyph value="aivowelsigncandrabindudeva"/>
+      </Coverage>
+      <!-- GlyphCount=177 -->
+      <AttachPoint index="0">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="26"/>
+      </AttachPoint>
+      <AttachPoint index="1">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="12"/>
+      </AttachPoint>
+      <AttachPoint index="2">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="51"/>
+      </AttachPoint>
+      <AttachPoint index="3">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="4">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="53"/>
+      </AttachPoint>
+      <AttachPoint index="5">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="62"/>
+      </AttachPoint>
+      <AttachPoint index="6">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="58"/>
+      </AttachPoint>
+      <AttachPoint index="7">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="8">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="46"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="9">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="56"/>
+        <PointIndex index="1" value="57"/>
+      </AttachPoint>
+      <AttachPoint index="10">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="65"/>
+        <PointIndex index="1" value="66"/>
+      </AttachPoint>
+      <AttachPoint index="11">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="28"/>
+        <PointIndex index="1" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="12">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="34"/>
+        <PointIndex index="1" value="35"/>
+      </AttachPoint>
+      <AttachPoint index="13">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="44"/>
+        <PointIndex index="1" value="45"/>
+      </AttachPoint>
+      <AttachPoint index="14">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="43"/>
+        <PointIndex index="1" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="15">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="42"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="16">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="17">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="27"/>
+      </AttachPoint>
+      <AttachPoint index="18">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="27"/>
+      </AttachPoint>
+      <AttachPoint index="19">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="54"/>
+        <PointIndex index="1" value="55"/>
+      </AttachPoint>
+      <AttachPoint index="20">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="54"/>
+        <PointIndex index="1" value="55"/>
+      </AttachPoint>
+      <AttachPoint index="21">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="22">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="23">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="17"/>
+      </AttachPoint>
+      <AttachPoint index="24">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="33"/>
+      </AttachPoint>
+      <AttachPoint index="25">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="14"/>
+      </AttachPoint>
+      <AttachPoint index="26">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="27">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="14"/>
+      </AttachPoint>
+      <AttachPoint index="28">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="27"/>
+      </AttachPoint>
+      <AttachPoint index="29">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="12"/>
+      </AttachPoint>
+      <AttachPoint index="30">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="4"/>
+      </AttachPoint>
+      <AttachPoint index="31">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="4"/>
+      </AttachPoint>
+      <AttachPoint index="32">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="4"/>
+      </AttachPoint>
+      <AttachPoint index="33">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="46"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="34">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="35">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="36">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="37">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="38">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="77"/>
+      </AttachPoint>
+      <AttachPoint index="39">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="52"/>
+      </AttachPoint>
+      <AttachPoint index="40">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="61"/>
+      </AttachPoint>
+      <AttachPoint index="41">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="49"/>
+        <PointIndex index="1" value="50"/>
+      </AttachPoint>
+      <AttachPoint index="42">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="51"/>
+      </AttachPoint>
+      <AttachPoint index="43">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="44">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="53"/>
+      </AttachPoint>
+      <AttachPoint index="45">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="62"/>
+      </AttachPoint>
+      <AttachPoint index="46">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="58"/>
+      </AttachPoint>
+      <AttachPoint index="47">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="48">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="49">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="77"/>
+      </AttachPoint>
+      <AttachPoint index="50">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="51">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="65"/>
+      </AttachPoint>
+      <AttachPoint index="52">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="28"/>
+      </AttachPoint>
+      <AttachPoint index="53">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="34"/>
+      </AttachPoint>
+      <AttachPoint index="54">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="42"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="55">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="17"/>
+      </AttachPoint>
+      <AttachPoint index="56">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="57">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="58">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="65"/>
+      </AttachPoint>
+      <AttachPoint index="59">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="28"/>
+      </AttachPoint>
+      <AttachPoint index="60">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="34"/>
+      </AttachPoint>
+      <AttachPoint index="61">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="62">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="63">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="43"/>
+        <PointIndex index="1" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="64">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="41"/>
+      </AttachPoint>
+      <AttachPoint index="65">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="54"/>
+      </AttachPoint>
+      <AttachPoint index="66">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="67">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="68">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="65"/>
+      </AttachPoint>
+      <AttachPoint index="69">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="28"/>
+      </AttachPoint>
+      <AttachPoint index="70">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="34"/>
+      </AttachPoint>
+      <AttachPoint index="71">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="72">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="73">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="43"/>
+        <PointIndex index="1" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="74">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="2"/>
+        <PointIndex index="1" value="41"/>
+      </AttachPoint>
+      <AttachPoint index="75">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="54"/>
+      </AttachPoint>
+      <AttachPoint index="76">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="77">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="78">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="42"/>
+      </AttachPoint>
+      <AttachPoint index="79">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="42"/>
+      </AttachPoint>
+      <AttachPoint index="80">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="58"/>
+      </AttachPoint>
+      <AttachPoint index="81">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="44"/>
+      </AttachPoint>
+      <AttachPoint index="82">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="83">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="78"/>
+      </AttachPoint>
+      <AttachPoint index="84">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="42"/>
+      </AttachPoint>
+      <AttachPoint index="85">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="58"/>
+      </AttachPoint>
+      <AttachPoint index="86">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="26"/>
+      </AttachPoint>
+      <AttachPoint index="87">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="88">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="41"/>
+      </AttachPoint>
+      <AttachPoint index="89">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="90">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="35"/>
+      </AttachPoint>
+      <AttachPoint index="91">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="92">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="26"/>
+      </AttachPoint>
+      <AttachPoint index="93">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="94">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="95">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="39"/>
+      </AttachPoint>
+      <AttachPoint index="96">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="38"/>
+      </AttachPoint>
+      <AttachPoint index="97">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="50"/>
+      </AttachPoint>
+      <AttachPoint index="98">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="99">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="24"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="100">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="51"/>
+      </AttachPoint>
+      <AttachPoint index="101">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="73"/>
+      </AttachPoint>
+      <AttachPoint index="102">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="57"/>
+      </AttachPoint>
+      <AttachPoint index="103">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="104">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="63"/>
+      </AttachPoint>
+      <AttachPoint index="105">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="80"/>
+      </AttachPoint>
+      <AttachPoint index="106">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="78"/>
+      </AttachPoint>
+      <AttachPoint index="107">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="102"/>
+      </AttachPoint>
+      <AttachPoint index="108">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="109">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="78"/>
+        <PointIndex index="1" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="110">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="55"/>
+        <PointIndex index="1" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="111">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="63"/>
+        <PointIndex index="1" value="64"/>
+      </AttachPoint>
+      <AttachPoint index="112">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="78"/>
+        <PointIndex index="1" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="113">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="59"/>
+        <PointIndex index="1" value="60"/>
+      </AttachPoint>
+      <AttachPoint index="114">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="86"/>
+        <PointIndex index="1" value="87"/>
+      </AttachPoint>
+      <AttachPoint index="115">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="59"/>
+        <PointIndex index="1" value="60"/>
+      </AttachPoint>
+      <AttachPoint index="116">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="41"/>
+      </AttachPoint>
+      <AttachPoint index="117">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="46"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="118">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="46"/>
+      </AttachPoint>
+      <AttachPoint index="119">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="70"/>
+      </AttachPoint>
+      <AttachPoint index="120">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="65"/>
+      </AttachPoint>
+      <AttachPoint index="121">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="75"/>
+      </AttachPoint>
+      <AttachPoint index="122">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="73"/>
+      </AttachPoint>
+      <AttachPoint index="123">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="46"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="124">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="46"/>
+      </AttachPoint>
+      <AttachPoint index="125">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="46"/>
+      </AttachPoint>
+      <AttachPoint index="126">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="46"/>
+      </AttachPoint>
+      <AttachPoint index="127">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="79"/>
+        <PointIndex index="1" value="80"/>
+      </AttachPoint>
+      <AttachPoint index="128">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="37"/>
+      </AttachPoint>
+      <AttachPoint index="129">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="37"/>
+      </AttachPoint>
+      <AttachPoint index="130">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="25"/>
+      </AttachPoint>
+      <AttachPoint index="131">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="132">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="36"/>
+      </AttachPoint>
+      <AttachPoint index="133">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="134">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="135">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="45"/>
+      </AttachPoint>
+      <AttachPoint index="136">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="45"/>
+      </AttachPoint>
+      <AttachPoint index="137">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="52"/>
+      </AttachPoint>
+      <AttachPoint index="138">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="64"/>
+      </AttachPoint>
+      <AttachPoint index="139">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="64"/>
+      </AttachPoint>
+      <AttachPoint index="140">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="73"/>
+      </AttachPoint>
+      <AttachPoint index="141">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="61"/>
+      </AttachPoint>
+      <AttachPoint index="142">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="73"/>
+      </AttachPoint>
+      <AttachPoint index="143">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="144">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="55"/>
+        <PointIndex index="1" value="56"/>
+      </AttachPoint>
+      <AttachPoint index="145">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="65"/>
+        <PointIndex index="1" value="66"/>
+      </AttachPoint>
+      <AttachPoint index="146">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="28"/>
+        <PointIndex index="1" value="29"/>
+      </AttachPoint>
+      <AttachPoint index="147">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="34"/>
+        <PointIndex index="1" value="35"/>
+      </AttachPoint>
+      <AttachPoint index="148">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="44"/>
+        <PointIndex index="1" value="45"/>
+      </AttachPoint>
+      <AttachPoint index="149">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="42"/>
+        <PointIndex index="1" value="43"/>
+      </AttachPoint>
+      <AttachPoint index="150">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="52"/>
+        <PointIndex index="1" value="53"/>
+      </AttachPoint>
+      <AttachPoint index="151">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="46"/>
+        <PointIndex index="1" value="47"/>
+      </AttachPoint>
+      <AttachPoint index="152">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="31"/>
+      </AttachPoint>
+      <AttachPoint index="153">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="31"/>
+      </AttachPoint>
+      <AttachPoint index="154">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="32"/>
+      </AttachPoint>
+      <AttachPoint index="155">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="32"/>
+      </AttachPoint>
+      <AttachPoint index="156">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="25"/>
+      </AttachPoint>
+      <AttachPoint index="157">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="25"/>
+      </AttachPoint>
+      <AttachPoint index="158">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="42"/>
+      </AttachPoint>
+      <AttachPoint index="159">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="59"/>
+      </AttachPoint>
+      <AttachPoint index="160">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="68"/>
+      </AttachPoint>
+      <AttachPoint index="161">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="21"/>
+      </AttachPoint>
+      <AttachPoint index="162">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="21"/>
+      </AttachPoint>
+      <AttachPoint index="163">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="164">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="165">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="17"/>
+      </AttachPoint>
+      <AttachPoint index="166">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="31"/>
+      </AttachPoint>
+      <AttachPoint index="167">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="55"/>
+      </AttachPoint>
+      <AttachPoint index="168">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="61"/>
+      </AttachPoint>
+      <AttachPoint index="169">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="12"/>
+      </AttachPoint>
+      <AttachPoint index="170">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="59"/>
+      </AttachPoint>
+      <AttachPoint index="171">
+        <!-- PointCount=2 -->
+        <PointIndex index="0" value="78"/>
+        <PointIndex index="1" value="79"/>
+      </AttachPoint>
+      <AttachPoint index="172">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="26"/>
+      </AttachPoint>
+      <AttachPoint index="173">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="37"/>
+      </AttachPoint>
+      <AttachPoint index="174">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="24"/>
+      </AttachPoint>
+      <AttachPoint index="175">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="14"/>
+      </AttachPoint>
+      <AttachPoint index="176">
+        <!-- PointCount=1 -->
+        <PointIndex index="0" value="27"/>
+      </AttachPoint>
+    </AttachList>
+  </GDEF>
+
+</ttFont>
