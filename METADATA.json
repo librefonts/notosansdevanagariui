@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Devanagari UI",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 56407,
+  "fonts": [
+    {
+      "name": "Noto Sans Devanagari UI",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansDevanagariUI-Bold.ttf",
+      "postScriptName": "NotoSansDevanagariUI-Bold",
+      "fullName": "Noto Sans Devanagari UI Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Devanagari UI",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansDevanagariUI-Regular.ttf",
+      "postScriptName": "NotoSansDevanagariUI",
+      "fullName": "Noto Sans Devanagari UI",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
